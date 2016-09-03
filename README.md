@@ -1,2 +1,2 @@
 # Mobile Development
-In this repository you will find all of notes and projects in the field of mobile development. Although I currently don't have much here I look forward to taking many mobile development classes on Udacity and filling this repository up with applications and software for both iOS and Android.
+In this repository you will find all of my notes and projects in the field of mobile development. Although I currently don't have much here I look forward to taking many mobile development classes on Udacity and filling this repository up with applications and software for both iOS and Android.
