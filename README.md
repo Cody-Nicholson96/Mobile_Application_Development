@@ -1,2 +1,2 @@
-# Mobile Development
-In this repository you will find all of my notes and projects in the field of mobile development. Although I currently don't have much here I look forward to taking many mobile development classes on Udacity and filling this repository up with applications and software for both iOS and Android.
+# VoiceRec
+This is an android app I developed that uses the Google voice recognition library to listen for speech, send that speech to google's server, and print the output from the server to the screen. I was able to create this with the help of tutorials by Tech Academy on Youtube.
